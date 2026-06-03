@@ -8,35 +8,6 @@
 📧 nigusdibekulu21@email.com | 📞 +251943862672  
 
 ---
-
-## 🚀 About Me
-
-Results-driven Software Engineer specializing in building scalable web systems, APIs, and AI-integrated applications.
-
-I work with:
-- Frontend: React, Next.js
-- Backend: Python (FastAPI), ASP.NET Core, Laravel
-- Mobile: Flutter
-- AI & Data: LLM integrations, LangChain, N8N
-
----
-
-## 🧠 Tech Stack
-
-**Frontend**
-- React.js • Next.js • Flutter
-
-**Backend**
-- Python • FastAPI • ASP.NET Core • Laravel
-
-**Dev Tools**
-- Docker • Git • CI/CD
-
-**AI & Data**
-- LangChain • LLM Integration • Data Pipelines
-
----
-
 ## 💼 Experience
 
 ### 🏛 Ministry of Innovation and Technology (Ethiopia)
@@ -68,7 +39,7 @@ I work with:
 - Applied RAG-based AI workflows  
 
 ---
-### 🌍 ElecNova
+### 🌍 ElecNova ----------------------------------- Curently Working
 **AI Enginner**
 ### BUILDING
 - Property & Occupancy Monitoring USING Nextjs and supabase
