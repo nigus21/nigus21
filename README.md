@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Nigus+Dibekulu;Full-Stack+Developer;AI+Engineer;Backend+Specialist)](https://git.io/typing-svg)
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Nigus%20Dibekulu&fontSize=40&fontColor=ffffff)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nigus21&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nigus21&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nigus21&theme=react-dark)
 
 # 👋 Hi, I'm NIGUS DIBEKULU
 
