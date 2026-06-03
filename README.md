@@ -68,6 +68,16 @@ I work with:
 - Applied RAG-based AI workflows  
 
 ---
+### 🌍 ElecNova
+**AI Enginner**
+### BUILDING
+- Property & Occupancy Monitoring USING Nextjs and supabase
+- Warehouse Vision & AI Inspection
+- Mobile app using Flutter
+- Inventory + Property + Finance + AI Vision + Users
+
+
+---
 
 ## 🎓 Education
 
