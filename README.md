@@ -77,12 +77,6 @@ Online exam preparation platform
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nigus21&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - Email: nigusdibekulu21@email.com  
